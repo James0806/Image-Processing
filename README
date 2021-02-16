@@ -1,0 +1,4 @@
+The file A2.java contains code I have written to implement various image processing algorithms, while the contents
+of the remaining files were given to me and provide both the back-end functionality for the program as well as the
+images used to test it. To test the program, enter the name of the desired operation as a string argument in 
+line 293 and execute the program.
